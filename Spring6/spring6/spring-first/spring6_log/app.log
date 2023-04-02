@@ -1,0 +1,11 @@
+2023-03-31 at 00:58:05 BST DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@584f54e6
+2023-03-31 at 00:58:06 BST DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [beans.xml]
+2023-03-31 at 00:58:06 BST DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2023-03-31 at 01:02:16 BST DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@39a8312f
+2023-03-31 at 01:02:19 BST DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [beans.xml]
+2023-03-31 at 01:02:19 BST DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2023-03-31 at 01:02:19 BST INFO  com.company.spring6.TestUser 22 testUserObject - successfully execute....
+2023-03-31 at 01:37:33 BST DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@39a8312f
+2023-03-31 at 01:37:34 BST DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [beans.xml]
+2023-03-31 at 01:37:35 BST DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2023-03-31 at 01:37:35 BST INFO  com.company.spring6.TestUser 22 testUserObject - successfully execute....
